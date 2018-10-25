@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shahidasikkandar
+Implementation-Vendor-Id: SQSMS
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/microservicce
+Created-By: Maven Integration for Eclipse
+

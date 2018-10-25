@@ -1,0 +1,3 @@
+com/basha/aws/SqsApp.class
+com/basha/aws/service/SqsService.class
+com/basha/aws/controller/SqsController.class
