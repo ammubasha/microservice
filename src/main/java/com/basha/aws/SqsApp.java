@@ -8,6 +8,8 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class SqsApp extends SpringBootServletInitializer{
 	//am from feature1
 	//am from feature2
+	
+	// am from master1
 	public static void main(String[] args){
 		SpringApplication.run(SqsApp.class, args);
 	}
